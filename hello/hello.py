@@ -1,0 +1,2 @@
+hello="samrina"
+print(hello)
